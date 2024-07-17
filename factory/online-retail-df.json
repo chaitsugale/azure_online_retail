@@ -1,0 +1,9 @@
+{
+	"name": "online-retail-df",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a0fbd83-805b-4585-93d7-a66bcbf101ea",
+		"tenantId": "a9491e84-8e29-4ea8-8152-c7e9ac148cad"
+	}
+}
